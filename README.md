@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 19.02.1994  
 **Name:** Ahmet  
 **Surname:** Çıkrıkçı  
 **Email:** wtredmax@gmail.com  
